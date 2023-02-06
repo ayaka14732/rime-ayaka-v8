@@ -1,0 +1,5 @@
+手工修改，待進一步研究的：
+
+SUB 出 sot4 syut4
+SUB 術 sot8 syut8
+SUB 述 sot8 syut8

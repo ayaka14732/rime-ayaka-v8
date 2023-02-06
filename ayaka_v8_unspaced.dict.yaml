@@ -4335,7 +4335,7 @@ sort: by_weight
 凸	tet8
 凸	tot8
 凹	ap4
-出	sot4
+出	syut4
 出	sui3	5%
 函	kam5
 函	kam5	20%
@@ -16996,7 +16996,7 @@ sort: by_weight
 衎	kan2
 衎	kan3
 衒	kwen7
-術	sot8
+術	syut8
 衕	tong5
 衕	tong7
 衖	kang7
@@ -18736,7 +18736,7 @@ sort: by_weight
 迫	pak4
 迭	tet8
 迮	sak4
-述	sot8
+述	syut8
 迱	ta5
 迴	kwai5
 迴	kwai7
@@ -27826,7 +27826,7 @@ sort: by_weight
 仁政	zin1=seng3
 仁武	zin1=bu2
 仁義	zin1=gi3
-仁術	zin1=sot8
+仁術	zin1=syut8
 仄徑	sok4=keng3
 仄聲	sok4=seng1
 仇人	kiu5=zin1
@@ -29455,9 +29455,9 @@ sort: by_weight
 凹鏡	ap4=keng3
 凹陷	ap4=kam7
 凹雕	ap4=teu1
-出使	sot4=si3
-出差	sot4=sai1
-出發	sot4=pat4
+出使	syut4=si3
+出差	syut4=sai1
+出發	syut4=pat4
 函數	kam5=su3
 刀俎	tau1=so2
 刀具	tau1=ku7
@@ -29715,7 +29715,7 @@ sort: by_weight
 前身	sen5=sin1
 前輩	sen5=pai3
 前輪	sen5=rin1
-前述	sen5=sot8
+前述	sen5=syut8
 前途	sen5=to5
 前進	sen5=sin3
 前邊	sen5=pen1
@@ -30690,7 +30690,7 @@ sort: by_weight
 口訣	kou2=kwet4
 口試	kou2=si3
 口譯	kou2=ek4
-口述	kou2=sot8
+口述	kou2=syut8
 口鋒	kou2=pong1
 口音	kou2=im1
 口頭	kou2=tou5
@@ -31795,7 +31795,7 @@ sort: by_weight
 國菜	kok4=sai3
 國葬	kok4=sang3
 國蠹	kok4=to3
-國術	kok4=sot8
+國術	kok4=syut8
 國貨	kok4=kwa3
 國貿	kok4=bou3
 國賊	kok4=sok8
@@ -32892,7 +32892,7 @@ sort: by_weight
 妖媚	eu1=bi3
 妖怪	eu1=kwai3
 妖物	eu1=but4
-妖術	eu1=sot8
+妖術	eu1=syut8
 妖言	eu1=gen1
 妖魔	eu1=ba1
 妙品	beu3=pim2
@@ -33312,7 +33312,7 @@ sort: by_weight
 學習	kak8=sip8
 學者	kak8=sya2
 學藝	kak8=gei3
-學術	kak8=sot8
+學術	kak8=syut8
 學運	kak8=un3
 學銜	kak8=kam5
 學霸	kak8=pa3
@@ -34647,7 +34647,7 @@ sort: by_weight
 巫溪	bu1=kei1
 巫統	bu1=tong3
 巫蠱	bu1=ko2
-巫術	bu1=sot8
+巫術	bu1=syut8
 巫覡	bu1=kek8
 巫醫	bu1=i1
 差使	sai1=si2
@@ -35269,7 +35269,7 @@ sort: by_weight
 引證	in2=syong3
 引起	in2=ki2
 引路	in2=ro3
-引述	in2=sot8
+引述	in2=syut8
 引退	in2=tai3
 引逗	in2=tou7
 引領	in2=reng2
@@ -35336,7 +35336,7 @@ sort: by_weight
 強震	kyang5=sin3
 強韌	kyang5=zin3
 強項	kyang5=kang6
-彈出	tan5=sot4
+彈出	tan5=syut4
 彈劾	tan5=kok8
 彌勒	bi1=rok4
 彌天	bi1=ten1
@@ -35737,7 +35737,7 @@ sort: by_weight
 心腹	sim1=puk4
 心膽	sim1=tam2
 心血	sim1=kwet4
-心術	sim1=sot8
+心術	sim1=syut8
 心計	sim1=kei3
 心許	sim1=kyo2
 心跡	sim1=sek4
@@ -36413,7 +36413,7 @@ sort: by_weight
 憲政	ken3=seng3
 憲法	ken3=pap4
 憲章	ken3=syang1
-憶述	yok4=sot8
+憶述	yok4=syut8
 憷場	so2=tyang5
 憷頭	so2=tou5
 憾恨	kam7=kon7
@@ -36670,7 +36670,7 @@ sort: by_weight
 戰績	sen3=sek4
 戰船	sen3=sen5
 戰艦	sen3=kam6
-戰術	sen3=sot8
+戰術	sen3=syut8
 戰袍	sen3=pou5
 戰酣	sen3=kam5
 戰馬	sen3=ba2
@@ -36745,7 +36745,7 @@ sort: by_weight
 手臂	siu2=pi3
 手舉	siu2=kyo2
 手藝	siu2=gei3
-手術	siu2=sot8
+手術	siu2=syut8
 手跡	siu2=sek4
 手軟	siu2=zen2
 手辦	siu2=pan7
@@ -36831,7 +36831,7 @@ sort: by_weight
 技法	ki6=pap4
 技職	ki6=syok4
 技藝	ki6=gei3
-技術	ki6=sot8
+技術	ki6=syut8
 抃悅	pen7=et4
 抃掌	pen7=syang2
 抄件	sau1=ken6
@@ -37166,7 +37166,7 @@ sort: by_weight
 拳棒	kwen5=pang6
 拳法	kwen5=pap4
 拳腳	kwen5=kyak4
-拳術	kwen5=sot8
+拳術	kwen5=syut8
 拳頭	kwen5=tou5
 拶刑	sat4=keng5
 拶子	sat4=si2
@@ -37531,7 +37531,7 @@ sort: by_weight
 接髮	sep4=pat4
 接點	sep4=tem2
 推倒	tai1=tau2
-推出	sui1=sot4
+推出	sui1=syut4
 推導	sui1=tau7
 推廣	tai1=kwang2
 推敲	tai1=kau1
@@ -37565,7 +37565,7 @@ sort: by_weight
 描圖	beu1=to5
 描寫	beu1=sya2
 描繪	beu1=kwai7
-描述	beu1=sot8
+描述	beu1=syut8
 描金	beu1=kim1
 插件	sap4=ken6
 插值	sap4=ti7
@@ -38029,7 +38029,7 @@ sort: by_weight
 敘舊	syo6=kiu7
 敘言	syo6=gen1
 敘談	syo6=tam5
-敘述	syo6=sot8
+敘述	syo6=syut8
 教主	kau3=syu2
 教區	kau3=ku1
 教友	kau3=iu2
@@ -38593,7 +38593,7 @@ sort: by_weight
 星球	seng1=kiu5
 星系	seng1=kei7
 星級	seng1=kip4
-星術	seng1=sot8
+星術	seng1=syut8
 星表	seng1=peu2
 星象	seng1=syang6
 星辰	seng1=sin5
@@ -39667,7 +39667,7 @@ sort: by_weight
 柔性	ziu1=seng3
 柔情	ziu1=seng5
 柔美	ziu1=bi2
-柔術	ziu1=sot8
+柔術	ziu1=syut8
 柔軟	ziu1=zen2
 柔道	ziu1=tau6
 柔韌	ziu1=zin3
@@ -40302,7 +40302,7 @@ sort: by_weight
 權杖	kwen5=tyang6
 權柄	kwen5=peng3
 權益	kwen5=ek4
-權術	kwen5=sot8
+權術	kwen5=syut8
 權衡	kwen5=kang5
 權謀	kwen5=bou1
 權證	kwen5=syong3
@@ -40498,7 +40498,7 @@ sort: by_weight
 武職	bu2=syok4
 武舉	bu2=kyo2
 武藝	bu2=gei3
-武術	bu2=sot8
+武術	bu2=syut8
 武警	bu2=keng2
 武進	bu2=sin3
 武邑	bu2=ip4
@@ -41227,7 +41227,7 @@ sort: by_weight
 法老	pap4=rau2
 法航	pap4=kang5
 法蘭	pap4=ran1
-法術	pap4=sot8
+法術	pap4=syut8
 法製	pap4=sei3
 法規	pap4=ki1
 法警	pap4=keng2
@@ -43426,7 +43426,7 @@ sort: by_weight
 獸穴	siu3=kwet8
 獸藥	siu3=yak4
 獸行	siu3=kang7
-獸術	siu3=sot8
+獸術	siu3=syut8
 獸醫	siu3=i1
 獸類	siu3=rui3
 獼猴	bi1=kou5
@@ -43868,7 +43868,7 @@ sort: by_weight
 申購	sin1=kou3
 申辦	sin1=pan7
 申辯	sin1=pen6
-申述	sin1=sot8
+申述	sin1=syut8
 申通	sin1=tong1
 申雪	sin1=set4
 申領	sin1=reng2
@@ -45876,7 +45876,7 @@ sort: by_weight
 算是	san2=si6
 算法	san2=pap4
 算盤	san2=pan5
-算術	san2=sot8
+算術	san2=syut8
 算計	san2=kei3
 算話	san2=kwai7
 箜篌	kong1=kou5
@@ -46014,7 +46014,7 @@ sort: by_weight
 簡訊	kan2=sin3
 簡諧	kan2=kai5
 簡譜	kan2=po2
-簡述	kan2=sot8
+簡述	kan2=syut8
 簡陋	kan2=rou3
 簡陽	kan2=yang1
 簡體	kan2=tei2
@@ -46631,7 +46631,7 @@ sort: by_weight
 綜理	song3=ri2
 綜藝	song3=gei3
 綜計	song3=kei3
-綜述	song3=sot8
+綜述	song3=syut8
 綠化	ryok4=kwa3
 綠園	ryok4=wen1
 綠地	ryok4=ti7
@@ -46844,7 +46844,7 @@ sort: by_weight
 縱意	syong3=i3
 縱慾	syong3=yok4
 縴道	ken1=tau6
-縷述	ru2=sot8
+縷述	ru2=syut8
 縹囊	peu2=dang1
 縹渺	peu2=beu2
 總要	song2=eu3
@@ -46880,7 +46880,7 @@ sort: by_weight
 繼續	kei3=syok8
 繼而	kei3=zi1
 繼軌	kei3=kwi2
-繼述	kei3=sot8
+繼述	kei3=syut8
 繼配	kei3=pai3
 繽紛	pin1=pun1
 纂修	san2=siu1
@@ -47068,7 +47068,7 @@ sort: by_weight
 美藍	bi2=ram1
 美蘇	bi2=so1
 美蘭	bi2=ran1
-美術	bi2=sot8
+美術	bi2=syut8
 美製	bi2=sei3
 美談	bi2=tam5
 美貌	bi2=bau3
@@ -47918,7 +47918,7 @@ sort: by_weight
 自貢	si7=kong3
 自責	si7=sak4
 自身	si7=sin1
-自述	si7=sot8
+自述	si7=syut8
 自遊	si7=iu1
 自酌	si7=syak4
 自願	si7=gwen3
@@ -48885,7 +48885,7 @@ sort: by_weight
 藝人	gei3=zin1
 藝名	gei3=meng1
 藝壇	gei3=tan5
-藝術	gei3=sot8
+藝術	gei3=syut8
 藤井	tong5=seng2
 藤原	tong5=gwen1
 藤本	tong5=pon2
@@ -49315,7 +49315,7 @@ sort: by_weight
 行頭	kang5=tou5
 行騙	kang5=pen3
 行高	kang5=kau1
-術赤	sot8=sek4
+術赤	syut8=sek4
 衝入	syong1=zip4
 衝力	syong1=ryok4
 衝勁	syong1=keng3
@@ -49366,7 +49366,7 @@ sort: by_weight
 表記	peu2=ki3
 表證	peu2=syong3
 表象	peu2=syang6
-表述	peu2=sot8
+表述	peu2=syut8
 表露	peu2=ro3
 表面	peu2=ben3
 表音	peu2=im1
@@ -49505,7 +49505,7 @@ sort: by_weight
 複詞	puk4=si5
 複變	puk4=pen3
 複賽	puk4=sai3
-複述	puk4=sot8
+複述	puk4=syut8
 複雜	puk4=sap8
 褊狹	pen2=kap8
 褐煤	kat8=bai1
@@ -49763,7 +49763,7 @@ sort: by_weight
 記者	ki3=sya2
 記譜	ki3=po2
 記起	ki3=ki2
-記述	ki3=sot8
+記述	ki3=syut8
 訛人	gwa1=zin1
 訛字	gwa1=si7
 訛詐	gwa1=sa3
@@ -49810,7 +49810,7 @@ sort: by_weight
 訴求	so3=kiu5
 訴狀	so3=sang7
 訴諸	so3=syo1
-訴述	so3=sot8
+訴述	so3=syut8
 訴願	so3=gwen3
 訶叱	ka1=sit4
 訶子	ka1=si2
@@ -50116,7 +50116,7 @@ sort: by_weight
 講話	kang2=kwai7
 講課	kang2=kwa3
 講辭	kang2=si5
-講述	kang2=sot8
+講述	kang2=syut8
 講道	kang2=tau6
 謝儀	sya7=gi1
 謝卻	sya7=kyak4
@@ -50755,7 +50755,7 @@ sort: by_weight
 贅肉	sei3=zik4
 贅言	sei3=gen1
 贅詞	sei3=si5
-贅述	sei3=sot8
+贅述	sei3=syut8
 贅餘	sei3=yo1
 贈品	song7=pim2
 贈款	song7=kwan2
@@ -51441,7 +51441,7 @@ sort: by_weight
 追贓	tui1=sang1
 追蹤	tui1=syong1
 追躡	tui1=dep4
-追述	tui1=sot8
+追述	tui1=syut8
 追逐	tui1=tik8
 追逼	tui1=pyok4
 追隨	tui1=sui5
@@ -52356,7 +52356,7 @@ sort: by_weight
 醫理	i1=ri2
 醫療	i1=reu3
 醫藥	i1=yak4
-醫術	i1=sot8
+醫術	i1=syut8
 醫護	i1=ko7
 醫道	i1=tau6
 醬油	syang3=iu1
@@ -52395,7 +52395,7 @@ sort: by_weight
 里社	ri2=sya6
 里程	ri2=teng5
 里諺	ri2=gen3
-重出	tyong5=sot4
+重出	tyong5=syut4
 重合	tyong5=kap8
 重心	tyong6=sim1
 重慶	tyong5=keng3
@@ -53101,7 +53101,7 @@ sort: by_weight
 闡揚	sen2=yang1
 闡明	sen2=meng1
 闡發	sen2=pat4
-闡述	sen2=sot8
+闡述	sen2=syut8
 闡釋	sen2=sek4
 闢室	pek8=sit4
 闢謠	pek8=eu1
@@ -54697,7 +54697,7 @@ sort: by_weight
 馬蘭	ba2=ran1
 馬虎	ba2=ko2
 馬蜂	ba2=pong1
-馬術	ba2=sot8
+馬術	ba2=syut8
 馬表	ba2=peu2
 馬賊	ba2=sok8
 馬賽	ba2=sai3
@@ -55066,7 +55066,7 @@ sort: by_weight
 魔法	ba1=pap4
 魔爪	ba1=sau2
 魔窟	ba1=kot4
-魔術	ba1=sot8
+魔術	ba1=syut8
 魔都	ba1=to1
 魔頭	ba1=tou5
 魔鬼	ba1=kwi2
@@ -56324,7 +56324,7 @@ sort: by_weight
 催生婆	sai1=seng1=pa5
 催眠曲	sai1=ben1=kyok4
 催眠藥	sai1=ben1=yak4
-催眠術	sai1=ben1=sot8
+催眠術	sai1=ben1=syut8
 傳教團	ten5=kau3=tan5
 傳教士	ten5=kau3=si6
 傾向性	keng1=kyang3=seng3
@@ -56502,7 +56502,7 @@ sort: by_weight
 共謀罪	kyong7=bou1=sai6
 共謀者	kyong7=bou1=sya2
 共通性	kyong7=tong1=seng3
-兵器術	peng1=ki3=sot8
+兵器術	peng1=ki3=syut8
 具體到	ku7=tei2=tau3
 具體化	ku7=tei2=kwa3
 典型化	ten2=keng5=kwa3
@@ -57639,7 +57639,7 @@ sort: by_weight
 奮起湖	pun3=ki2=ko5
 奴隸主	do1=rei3=syu2
 奴隸制	do1=rei3=sei3
-妖術師	eu1=sot8=si1
+妖術師	eu1=syut8=si1
 妙智慧	beu3=ti3=kwei7
 妥妥的	ta2=ta2=tek4
 妹妹頭	bai3=bai3=tou5
@@ -57733,7 +57733,7 @@ sort: by_weight
 孵化場	pu1=kwa3=tyang5
 孵化期	pu1=kwa3=ki5
 學前班	kak8=sen5=pan1
-學術界	kak8=sot8=kai3
+學術界	kak8=syut8=kai3
 它本身	ta1=pon2=sin1
 宇宙學	u2=tiu7=kak8
 宇宙線	u2=tiu7=sen3
@@ -57906,7 +57906,7 @@ sort: by_weight
 專門家	sen1=bon1=ka1
 尋呼機	sim5=ko1=ki1
 尋回犬	sim5=kwai5=kwen2
-尋水術	sim5=sui2=sot8
+尋水術	sim5=sui2=syut8
 尋開心	sim5=kai1=sim1
 對口型	tai3=kou2=keng5
 對口徑	tai3=kou2=keng3
@@ -58610,7 +58610,7 @@ sort: by_weight
 手脖子	siu2=pot8=si2
 手腕子	siu2=wan3=si2
 手腕式	siu2=wan3=syok4
-手術檯	siu2=sot8=tai5
+手術檯	siu2=syut8=tai5
 手頭緊	siu2=tou5=kin2
 手風琴	siu2=pong1=kim5
 才外流	sai5=gwai3=riu1
@@ -58639,8 +58639,8 @@ sort: by_weight
 承銷商	syong5=seu1=syang1
 承銷團	syong5=seu1=tan5
 承銷店	syong5=seu1=tem3
-技術員	ki6=sot8=un1
-技術性	ki6=sot8=seng3
+技術員	ki6=syut8=un1
+技術性	ki6=syut8=seng3
 抄小路	sau1=seu2=ro3
 抄靶子	sau1=pa3=si2
 把馬子	pa2=ba2=si2
@@ -58911,7 +58911,7 @@ sort: by_weight
 敖貝得	gau1=pai3=tok4
 敘利亞	syo6=ri3=a3
 敘拉古	syo6=rap4=ko2
-敘述性	syo6=sot8=seng3
+敘述性	syo6=syut8=seng3
 教友派	kau3=iu2=pai3
 教堂山	kau3=tang5=san1
 教數學	kau1=su3=kak8
@@ -59011,7 +59011,7 @@ sort: by_weight
 新店市	sin1=tem3=si6
 新店溪	sin1=tem3=kei1
 新德里	sin1=tok4=ri2
-新技術	sin1=ki6=sot8
+新技術	sin1=ki6=syut8
 新時代	sin1=si5=tai7
 新民市	sin1=bin1=si6
 新沂市	sin1=gi1=si6
@@ -59453,7 +59453,7 @@ sort: by_weight
 柑橘醬	kam1=kit4=syang3
 柔佛州	ziu1=put8=siu1
 柔膚水	ziu1=pu1=sui2
-柔身術	ziu1=sin1=sot8
+柔身術	ziu1=sin1=syut8
 柘榴石	sya3=riu1=sek8
 柯劭忞	ka1=seu7=bin1
 柯文哲	ka1=bun1=tet4
@@ -59481,7 +59481,7 @@ sort: by_weight
 核工業	kwak8=kong1=gep4
 核工程	kwak8=kong1=teng5
 核廢物	kwak8=pei3=but4
-核技術	kwak8=ki6=sot8
+核技術	kwak8=ki6=syut8
 核桃仁	kwak8=tau5=zin1
 核模型	kwak8=bo1=keng5
 核武器	kwak8=bu2=ki3
@@ -60093,7 +60093,7 @@ sort: by_weight
 渤海灣	pot8=kai2=wan1
 測地線	sok4=ti7=sen3
 測徑器	sok4=keng3=ki3
-測心術	sok4=sim1=sot8
+測心術	sok4=sim1=syut8
 測試器	sok4=si3=ki3
 測距儀	sok4=kyo6=gi1
 渭南市	wi3=dam1=si6
@@ -61209,7 +61209,7 @@ sort: by_weight
 筵席捐	en1=sek8=en1
 算命家	san2=meng3=ka1
 算命者	san2=meng3=sya2
-算術式	san2=sot8=syok4
+算術式	san2=syut8=syok4
 算起來	san2=ki2=rai1
 管他呢	kwan2=ta1=di1
 管他的	kwan2=ta1=tek4
@@ -61547,9 +61547,9 @@ sort: by_weight
 美耐板	bi2=dai3=pan2
 美耐皿	bi2=dai3=meng2
 美職籃	bi2=syok4=ram1
-美術史	bi2=sot8=si2
-美術品	bi2=sot8=pim2
-美術館	bi2=sot8=kwan3
+美術史	bi2=syut8=si2
+美術品	bi2=syut8=pim2
+美術館	bi2=syut8=kwan3
 美髮師	bi2=pat4=si1
 羞答答	siu1=tap4=tap4
 義勇軍	gi3=yong2=kun1
@@ -62109,10 +62109,10 @@ sort: by_weight
 藍菌門	ram1=kin6=bon1
 藍藻門	ram1=sau2=bon1
 藍馬雞	ram1=ba2=kei1
-藝術品	gei3=sot8=pim2
-藝術家	gei3=sot8=ka1
-藝術片	gei3=sot8=pen3
-藝術節	gei3=sot8=set4
+藝術品	gei3=syut8=pim2
+藝術家	gei3=syut8=ka1
+藝術片	gei3=syut8=pen3
+藝術節	gei3=syut8=set4
 藥動學	yak4=tong6=kak8
 藥師佛	yak4=si1=put8
 藥方兒	yak4=pang1=zi1
@@ -62309,7 +62309,7 @@ sort: by_weight
 計算機	kei3=san2=ki1
 訊息原	sin3=syok4=gwen1
 討人嫌	tau2=zin1=kem5
-訓獸術	kun3=siu3=sot8
+訓獸術	kun3=siu3=syut8
 訓練營	kun3=ren3=eng1
 訓練者	kun3=ren3=sya2
 訓詁學	kun3=ko2=kak8
@@ -62350,7 +62350,7 @@ sort: by_weight
 試驗性	si3=gem3=seng3
 試驗間	si3=gem3=kan3
 詭辯家	kwi2=pen6=ka1
-詭辯術	kwi2=pen6=sot8
+詭辯術	kwi2=pen6=syut8
 詮釋學	sen1=sek4=kak8
 話務員	kwai7=bu3=un1
 話匣子	kwai7=kap8=si2
@@ -62413,7 +62413,7 @@ sort: by_weight
 護身符	ko7=sin1=pu5
 護髮乳	ko7=pat4=zyu2
 護髮素	ko7=pat4=so3
-讀心術	tok8=sim1=sot8
+讀心術	tok8=sim1=syut8
 讀書人	tok8=syo1=zin1
 讀書機	tok8=syo1=ki1
 變化音	pen3=kwa3=im1
@@ -62429,7 +62429,7 @@ sort: by_weight
 變速箱	pen3=sok4=syang1
 變阻器	pen3=so2=ki3
 變電站	pen3=ten7=tam3
-變魔術	pen3=ba1=sot8
+變魔術	pen3=ba1=syut8
 讓胡路	zyang3=ko5=ro3
 豁免權	kwat4=ben2=kwen5
 豆滿江	tou7=ban2=kang1
@@ -63622,7 +63622,7 @@ sort: by_weight
 馬駒子	ba2=ku1=si2
 馬鮫魚	ba2=kau1=gyo1
 馬齒莧	ba2=si2=kan7
-馭獸術	gyo3=siu3=sot8
+馭獸術	gyo3=siu3=syut8
 馳龍科	ti5=ryong1=kwa1
 馴悍記	syun5=kan7=ki3
 馴馬人	syun5=ba2=zin1
@@ -63682,9 +63682,9 @@ sort: by_weight
 魏文帝	gwi3=bun1=tei3
 魔法師	ba1=pap4=si1
 魔羯座	ba1=ket4=sa7
-魔術師	ba1=sot8=si1
-魔術棒	ba1=sot8=pang6
-魔術貼	ba1=sot8=tep4
+魔術師	ba1=syut8=si1
+魔術棒	ba1=syut8=pang6
+魔術貼	ba1=syut8=tep4
 魔鬼粘	ba1=kwi2=dem1
 魚子醬	gyo1=si2=syang3
 魚尾板	gyo1=bi2=pan2
@@ -63914,7 +63914,7 @@ sort: by_weight
 點對點	tem2=tai3=tem2
 點煙器	tem2=en1=ki3
 點金石	tem2=kim1=sek8
-點金術	tem2=kim1=sot8
+點金術	tem2=kim1=syut8
 點鬼火	tem2=kwi2=kwa2
 黨主席	tang2=syu2=sek8
 黨八股	tang2=pat4=ko2
@@ -64177,7 +64177,7 @@ sort: by_weight
 九九歸一	kiu2=kiu2=kwi1=it4
 九天攬月	kiu2=ten1=ram2=gwet4
 九旬老人	kiu2=syun5=rau2=zin1
-九章算術	kiu2=syang1=san2=sot8
+九章算術	kiu2=syang1=san2=syut8
 九霄雲外	kiu2=seu1=un1=gwai3
 也有今天	ya2=iu2=kim1=ten1
 亂七八糟	ran3=sit4=pat4=sau1
@@ -64243,7 +64243,7 @@ sort: by_weight
 亡命之徒	bang1=meng3=si1=to5
 亡羊補牢	bang1=yang1=po2=rau1
 交換價值	kau1=kwan7=ka3=ti7
-交換技術	kau1=kwan7=ki6=sot8
+交換技術	kau1=kwan7=ki6=syut8
 交換網路	kau1=kwan7=bang2=ro3
 交臂失之	kau1=pi3=sit4=si1
 交變流電	kau1=pen3=riu1=ten7
@@ -64302,7 +64302,7 @@ sort: by_weight
 人民警察	zin1=bin1=keng2=sat4
 人民起義	zin1=bin1=ki2=gi3
 人民陣線	zin1=bin1=tin7=sen3
-人流手術	zin1=riu1=siu2=sot8
+人流手術	zin1=riu1=siu2=syut8
 人滿為患	zin1=ban2=wi1=kwan7
 人無完人	zin1=bu1=kwan5=zin1
 人物描寫	zin1=but4=beu1=sya2
@@ -64334,7 +64334,7 @@ sort: by_weight
 仁人君子	zin1=zin1=kun1=si2
 仁人志士	zin1=zin1=si3=si6
 仁人義士	zin1=zin1=gi3=si6
-仁心仁術	zin1=sim1=zin1=sot8
+仁心仁術	zin1=sim1=zin1=syut8
 仁民愛物	zin1=bin1=ai3=but4
 仁義道德	zin1=gi3=tau6=tok4
 仁言利博	zin1=gen1=ri3=pak4
@@ -64454,7 +64454,7 @@ sort: by_weight
 信口開河	sin3=kou2=kai1=ka5
 信口雌黃	sin3=kou2=si1=kwang5
 信心百倍	sin3=sim1=pak4=pai6
-信息技術	sin3=syok4=ki6=sot8
+信息技術	sin3=syok4=ki6=syut8
 信息時代	sin3=syok4=si5=tai7
 信息管理	sin3=syok4=kwan2=ri2
 信息系統	sin3=syok4=kei7=tong3
@@ -64520,7 +64520,7 @@ sort: by_weight
 克羅諾斯	kok4=ra1=dak4=si1
 克里普斯	kok4=ri2=po2=si1
 克里米亞	kok4=ri2=bei2=a3
-克隆技術	kok4=ryung1=ki6=sot8
+克隆技術	kok4=ryung1=ki6=syut8
 免疫系統	ben2=ek4=kei7=tong3
 免責條款	ben2=sak4=teu5=kwan2
 免責聲明	ben2=sak4=seng1=meng1
@@ -64586,7 +64586,7 @@ sort: by_weight
 公買公賣	kong1=bai2=kong1=bai3
 公開指責	kong1=kai1=si2=sak4
 公開鑰匙	kong1=kai1=yak4=si5
-六出祁山	rik4=sot4=ki5=san1
+六出祁山	rik4=syut4=ki5=san1
 六十四卦	rik4=sip8=si3=kwai3
 六十年代	rik4=sip8=den1=tai7
 六塊腹肌	rik4=kwai3=puk4=ki1
@@ -64793,7 +64793,7 @@ sort: by_weight
 十有八九	sip8=iu2=pat4=kiu2
 十萬火急	sip8=ban3=kwa2=kip4
 十進位法	sip8=sin3=wi3=pap4
-十進算術	sip8=sin3=san2=sot8
+十進算術	sip8=sin3=san2=syut8
 十里洋場	sip8=ri2=yang1=tyang5
 千依百順	sen1=i1=pak4=syun7
 千刀萬剮	sen1=tau1=ban3=kwa2
@@ -65081,7 +65081,7 @@ sort: by_weight
 四面楚歌	si3=ben3=so3=ka1
 回信地址	kwai5=sin3=ti7=si2
 回味無窮	kwai5=bi3=bu1=kyung5
-回天乏術	kwai5=ten1=pap8=sot8
+回天乏術	kwai5=ten1=pap8=syut8
 回天無力	kwai5=ten1=bu1=ryok4
 回顧歷史	kwai5=ko3=rek4=si2
 因人而異	in1=zin1=zi1=i3
@@ -65178,7 +65178,7 @@ sort: by_weight
 基因修改	ki1=in1=siu1=kai2
 基因圖譜	ki1=in1=to5=po2
 基因工程	ki1=in1=kong1=teng5
-基因技術	ki1=in1=ki6=sot8
+基因技術	ki1=in1=ki6=syut8
 基因突變	ki1=in1=tot8=pen3
 基希訥烏	ki1=ki1=dot4=wo1
 基拉韋厄	ki1=rap4=wi1=wak4
@@ -65393,7 +65393,7 @@ sort: by_weight
 學業有成	kak8=gep4=iu2=seng5
 學無止境	kak8=bu1=si2=keng2
 學習時報	kak8=sip8=si5=pou3
-學術自由	kak8=sot8=si7=iu1
+學術自由	kak8=syut8=si7=iu1
 宇宙飛船	u2=tiu7=pi1=sen5
 宇普西龍	u2=po2=sei1=ryong1
 安全無恙	an1=sen5=bu1=yang3
@@ -65582,7 +65582,7 @@ sort: by_weight
 工礦用地	kong1=kwang2=yong3=ti7
 工程圖學	kong1=teng5=to5=kak8
 工薪階層	kong1=sin1=kai1=song5
-工藝美術	kong1=gei3=bi2=sot8
+工藝美術	kong1=gei3=bi2=syut8
 巫蠱之禍	bu1=ko2=si1=kwa6
 己型肝炎	ki2=keng5=kan1=em1
 巴伐利亞	pa1=pat8=ri3=a3
@@ -65715,7 +65715,7 @@ sort: by_weight
 形同陌路	keng5=tong5=bak4=ro3
 形式主義	keng5=syok4=syu2=gi3
 形形色色	keng5=keng5=sok4=sok4
-形象藝術	keng5=syang6=gei3=sot8
+形象藝術	keng5=syang6=gei3=syut8
 彪炳千古	piu1=peng2=sen1=ko2
 彬彬君子	pin1=pin1=kun1=si2
 彬彬有禮	pin1=pin1=iu2=rei2
@@ -65986,11 +65986,11 @@ sort: by_weight
 承審法官	syong5=sim2=pap4=kwan1
 承蒙關照	syong5=bong1=kwan1=seu3
 承銷貨物	syong5=seu1=kwa3=but4
-技術人員	ki6=sot8=zin1=un1
-技術所限	ki6=sot8=so2=kan6
-技術指導	ki6=sot8=si2=tau7
-技術發展	ki6=sot8=pat4=ten2
-技術規範	ki6=sot8=ki1=pam6
+技術人員	ki6=syut8=zin1=un1
+技術所限	ki6=syut8=so2=kan6
+技術指導	ki6=syut8=si2=tau7
+技術發展	ki6=syut8=pat4=ten2
+技術規範	ki6=syut8=ki1=pam6
 把酒言歡	pa2=siu2=gen1=kwan1
 抑揚頓挫	yok4=yang1=ton3=sa3
 投懷送抱	tou5=kwai5=song3=pou6
@@ -66277,7 +66277,7 @@ sort: by_weight
 普利司通	po2=ri3=si1=tong1
 普利策獎	po2=ri3=sak4=syang2
 普天同慶	po2=ten1=tong5=keng3
-普普藝術	po2=po2=gei3=sot8
+普普藝術	po2=po2=gei3=syut8
 普普通通	po2=po2=tong1=tong1
 普林斯頓	po2=rim1=si1=ton3
 普法戰爭	po2=pap4=sen3=sang1
@@ -66610,7 +66610,7 @@ sort: by_weight
 民航班機	bin1=kang5=pan1=ki1
 民間習俗	bin1=kan3=sip8=syok8
 民間舞蹈	bin1=kan3=bu2=tau7
-民間藝術	bin1=kan3=gei3=sot8
+民間藝術	bin1=kan3=gei3=syut8
 水上飛板	sui2=syang7=pi1=pan2
 水利工程	sui2=ri3=kong1=teng5
 水到渠成	sui2=tau3=kyo5=seng5
@@ -66672,7 +66672,7 @@ sort: by_weight
 波希米亞	pa1=ki1=bei2=a3
 波弗特海	pa1=put4=tok8=kai2
 波斯尼亞	pa1=si1=di1=a3
-波普藝術	pa1=po2=gei3=sot8
+波普藝術	pa1=po2=gei3=syut8
 波洛涅斯	pa1=rak4=det4=si1
 波濤粼粼	pa1=tau5=rin1=rin1
 波爾多液	pa1=zi2=ta1=ek4
@@ -67028,7 +67028,7 @@ sort: by_weight
 獨具匠心	tok8=ku7=syang7=sim1
 獨具隻眼	tok8=ku7=sek4=gan2
 獨夫民賊	tok8=pu1=bin1=sok8
-獨尊儒術	tok8=son1=zyu1=sot8
+獨尊儒術	tok8=son1=zyu1=syut8
 獨攬市場	tok8=ram2=si6=tyang5
 獨立宣言	tok8=rip4=sen1=gen1
 獨立戰爭	tok8=rip4=sen3=sang1
@@ -67285,7 +67285,7 @@ sort: by_weight
 眉清目秀	bi1=seng1=bok4=siu3
 眉飛色舞	bi1=pi1=sok4=bu2
 眷眷之心	kwen3=kwen3=si1=sim1
-眼動技術	gan2=tong6=ki6=sot8
+眼動技術	gan2=tong6=ki6=syut8
 眼明手快	gan2=meng1=siu2=kwai3
 眼皮哭腫	gan2=pi5=kok4=syong2
 眼瞎耳聾	gan2=kat4=zi2=rong1
@@ -67524,7 +67524,7 @@ sort: by_weight
 納什維爾	dap4=sip8=i1=zi2
 納塔乃耳	dap4=tap4=dai2=zi2
 納德阿里	dap4=tok4=a1=ri2
-納米技術	dap4=bei2=ki6=sot8
+納米技術	dap4=bei2=ki6=syut8
 納粹主義	dap4=sui3=syu2=gi3
 納粹份子	dap4=sui3=pin1=si2
 納粹德國	dap4=sui3=tok4=kok4
@@ -67575,7 +67575,7 @@ sort: by_weight
 統購統銷	tong3=kou3=tong3=seu1
 綏芬河市	sui1=pun1=ka5=si6
 綏靖主義	sui1=seng6=syu2=gi3
-綜上所述	song3=syang7=so2=sot8
+綜上所述	song3=syang7=so2=syut8
 綜藝節目	song3=gei3=set4=bok4
 綠慘紅愁	ryok4=sam2=kong5=suu5
 綠林豪客	ryok4=rim1=kau5=kak4
@@ -67593,7 +67593,7 @@ sort: by_weight
 網管系統	bang2=kwan2=kei7=tong3
 網絡協議	bang2=rak4=kep8=gi3
 網絡應用	bang2=rak4=yong3=yong3
-網絡技術	bang2=rak4=ki6=sot8
+網絡技術	bang2=rak4=ki6=syut8
 網絡日記	bang2=rak4=zit4=ki3
 網絡欺詐	bang2=rak4=ki1=sa3
 網絡水軍	bang2=rak4=sui2=kun1
@@ -67662,7 +67662,7 @@ sort: by_weight
 美國軍人	bi2=kok4=kun1=zin1
 美國運通	bi2=kok4=un3=tong1
 美宇航局	bi2=u2=kang5=kyok8
-美容手術	bi2=yong1=siu2=sot8
+美容手術	bi2=yong1=siu2=syut8
 美尼爾病	bi2=di1=zi2=peng7
 美東時間	bi2=tong1=si5=kan3
 美林集團	bi2=rim1=sip8=tan5
@@ -68280,7 +68280,7 @@ sort: by_weight
 軍閥混戰	kun1=pat8=kon6=sen3
 軒軒自得	ken1=ken1=si7=tok4
 軒轅十四	ken1=wen1=sip8=si3
-軟件技術	zen2=ken6=ki6=sot8
+軟件技術	zen2=ken6=ki6=syut8
 軟件系統	zen2=ken6=kei7=tong3
 軟件開發	zen2=ken6=kai1=pat4
 軟骨魚類	zen2=kot4=gyo1=rui3
@@ -68322,7 +68322,7 @@ sort: by_weight
 這一陣子	sya5=it4=tin7=si2
 這次危機	sya5=si3=gwi1=ki1
 通信地址	tong1=sin3=ti7=si2
-通信技術	tong1=sin3=ki6=sot8
+通信技術	tong1=sin3=ki6=syut8
 通信服務	tong1=sin3=puk8=bu3
 通信網絡	tong1=sin3=bang2=rak4
 通商口岸	tong1=syang1=kou2=gan3
@@ -68585,7 +68585,7 @@ sort: by_weight
 陽光普照	yang1=kwang1=po2=seu3
 陽奉陰違	yang1=pong6=im1=wi1
 陽春白雪	yang1=syun1=pak8=set4
-隆乳手術	ryung1=zyu2=siu2=sot8
+隆乳手術	ryung1=zyu2=siu2=syut8
 階梯計價	kai1=tei1=kei3=ka3
 階級鬥爭	kai1=kip4=tou3=sang1
 隔壁有耳	kwak4=pek4=iu2=zi2
@@ -69245,7 +69245,7 @@ sort: by_weight
 巴里坤草原	pa1=ri2=kon1=sau2=gwen1
 巴音滿都呼	pa1=im1=ban2=to1=ko1
 巴音郭楞州	pa1=im1=kwak4=rong1=siu1
-市場換技術	si6=tyang5=kwan7=ki6=sot8
+市場換技術	si6=tyang5=kwan7=ki6=syut8
 布加勒斯特	po3=ka1=rok4=si1=tok8
 布尼亞病毒	po3=di1=a3=peng7=tok8
 布拉德福德	po3=rap4=tok4=puk4=tok4
@@ -69283,7 +69283,7 @@ sort: by_weight
 戊戌六君子	bou3=sot4=rik4=kun1=si2
 我也是醉了	ga2=ya2=si6=sui3=reu2
 戰略核武器	sen3=ryak4=kwak8=bu2=ki3
-戰術核武器	sen3=sot8=kwak8=bu2=ki3
+戰術核武器	sen3=syut8=kwak8=bu2=ki3
 戴有色眼鏡	tai3=iu2=sok4=gan2=keng3
 抹一鼻子灰	bat4=it4=pi7=si2=kwai1
 拉什莫爾山	rap4=sip8=bak4=zi2=san1
@@ -69510,7 +69510,7 @@ sort: by_weight
 腦血管疾病	dau2=kwet4=kwan2=sit8=peng7
 膝上型電腦	sit4=syang7=keng5=ten7=dau2
 自動付款機	si7=tong6=pu3=kwan2=ki1
-自動化技術	si7=tong6=kwa3=ki6=sot8
+自動化技術	si7=tong6=kwa3=ki6=syut8
 自動售貨機	si7=tong6=siu7=kwa3=ki1
 自動櫃員機	si7=tong6=kwi7=un1=ki1
 自動點唱機	si7=tong6=tem2=syang3=ki1
