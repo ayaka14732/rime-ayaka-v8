@@ -1,0 +1,12 @@
+ADD 什 sim2
+SUB 什麼 sim2 ba5
+DEL 奈 da3
+DEL 邀 keu1
+DEL 霓 get4
+SETONLY 媽 ba1
+SETONLY 這 sya5
+SETONLY 亨 kang1
+SETONLY 作 sak4
+SETONLY 娃 wa5
+SETONLY 怎 sim2
+SETONLY 蟬 sen5 sem5  # 野雞

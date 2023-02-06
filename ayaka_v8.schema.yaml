@@ -1,0 +1,172 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: ayaka_v8
+  name: 綾香思考用語
+  version: "11.0.1-m263-d20230206"
+  author:
+    - Ayaka Mikazuki <ayaka@mail.shn.hk>
+  dependencies:
+    - luna_pinyin
+    - loengfan
+    - swiftkana
+    - hangeul
+  description: |-
+    方案歷史：
+
+    Dzisgio第四版是在日譯漢音的基礎上，參照歷史假名使用方法，依據便於交流的原則修改而成，
+    誕生于2017年8月6日。綾香思考用語是Dzisgio的第八、九版。
+
+    在發佈推導方案時，綾香思考用語回退至Dzisgio的第八版，稱ayaka_v8，但輸入方案並未隨之
+    更新。2023年2月6日，使用nk2028最新的切韻資料對輸入方案進行更新，並改稱ayaka_v8。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    reset: 0
+    states: [ 半角, 全角 ]
+  - name: hirakata
+    reset: 0
+    states: [ 平假名, 片假名 ]
+  - options: [ trad_shn, simplification ]
+    reset: 0
+    states: [ 湫霧繁體, 大陆简体 ]
+  - name: ascii_punct
+    reset: 0
+  - name: symbolic
+    reset: 1
+    # states: [ 無符號, 有符號 ]
+  - name: emoji_suggestion
+    reset: 0
+    states: [ 無, 🈶 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@luna_pinyin
+    - affix_segmentor@loengfan
+    - affix_segmentor@swiftkana
+    - affix_segmentor@hangeul
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - script_translator@luna_pinyin
+    - script_translator@loengfan
+    - table_translator@swiftkana
+    - table_translator@hangeul
+  filters:
+    - simplifier@symbolic
+    - simplifier@trad_shn
+    - simplifier
+    - simplifier@hirakata_simplifier
+    - simplifier@emoji_suggestion
+    - uniquifier
+    - reverse_lookup_filter
+
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+  algebra:
+    # 忽略聲調
+    - derive/[1-8]//
+    # 简拼
+    - abbrev/^([a-z]).+$/$1/             # 首字母簡拼
+    - abbrev/^(.[yw]).+$/$1/             # 二字母簡拼
+
+translator:
+  dictionary: ayaka_v8
+  spelling_hints: 20
+
+luna_pinyin:
+  tag: luna_pinyin
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: ";"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+loengfan:
+  tag: loengfan
+  dictionary: loengfan
+  prefix: "v"
+  suffix: ";"
+  tips: 〔兩分〕
+  preedit_format:
+    - "xlit|v|ü|"
+    - xform/iü/iv/
+    - xform/uü/uv/
+  comment_format:
+    - "xlit|v|ü|"
+    - xform/iü/iv/
+    - xform/uü/uv/
+
+swiftkana:
+  dictionary: swiftkana
+  prefix: "q"
+  suffix: ";"
+  tips: 〔假名〕
+  tag: swiftkana
+
+hangeul:
+  dictionary: hangeul
+  prefix: "l"
+  suffix: ";"
+  tips: 〔朝鮮㐎〕
+  tag: hangeul
+
+reverse_lookup:
+  tags: [ luna_pinyin, loengfan ]
+  overwrite_comment: false
+  dictionary: ayaka_v8
+
+trad_shn:
+  option_name: trad_shn
+  opencc_config: t2shn.json
+
+hirakata_simplifier:
+  option_name: hirakata
+  opencc_config: hira2kata.json
+  tags: [ swiftkana ]
+
+symbolic:
+  opencc_config: symbolic.json
+  option_name: symbolic
+  tips: all
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    luna_pinyin: "`[a-z]*;?$"
+    loengfan: "v[a-z]*;?$"
+    swiftkana: "^q(-|[a-z'])*;?$"
+    hangeul: "^l[a-z']*;?$"
